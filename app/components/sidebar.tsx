@@ -202,6 +202,7 @@ export function SideBar(props: { className?: string }) {
       >
         <DragIcon />
       </div>
+      <div>123456789</div>
     </div>
   );
 }
