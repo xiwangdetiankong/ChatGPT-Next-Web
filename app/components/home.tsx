@@ -158,7 +158,9 @@ function Screen() {
               <Route path={Path.Settings} element={<Settings />} />
             </Routes>
           </div>
-          <div>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div>
+          <div style="margin-bottom: -60px; ">
+              1111111111
+          </div>
         </>
       )}
     </div>
