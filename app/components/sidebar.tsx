@@ -195,7 +195,6 @@ export function SideBar(props: { className?: string }) {
           />
         </div>
       </div>
-      <div>网站备案:浙ICP备19046050号-2</div>
 
       <div
         className={styles["sidebar-drag"]}
@@ -205,5 +204,6 @@ export function SideBar(props: { className?: string }) {
       </div>
       <footer><a href="https://beian.miit.gov.cn">网站备案:浙ICP备19046050号-2</a></footer>
     </div>
+     <footer><a href="https://beian.miit.gov.cn">网站备案:浙ICP备19046050号-2</a></footer>
   );
 }
