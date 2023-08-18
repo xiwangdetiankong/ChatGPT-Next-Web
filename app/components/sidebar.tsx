@@ -195,6 +195,7 @@ export function SideBar(props: { className?: string }) {
           />
         </div>
       </div>
+      <div>123456</div>
 
       <div
         className={styles["sidebar-drag"]}
